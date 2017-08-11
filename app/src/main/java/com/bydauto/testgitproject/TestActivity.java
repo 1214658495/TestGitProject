@@ -9,6 +9,7 @@ import android.support.annotation.Nullable;
  */
 
 public class TestActivity extends Activity{
+    private static final String TAG = "TestActivity";
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
