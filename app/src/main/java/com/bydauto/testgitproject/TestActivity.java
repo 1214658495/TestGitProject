@@ -5,5 +5,4 @@ package com.bydauto.testgitproject;
  */
 
 public class TestActivity {
-    private static final String TAG = "TestActivity";
 }
